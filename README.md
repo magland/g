@@ -1,5 +1,3 @@
-# send-me-a-gift
-
 Send me a gift by donating to one of the following charities and then forwarding me the receipt.
 
 ## Keystone Opportunity Center
